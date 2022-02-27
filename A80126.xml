@@ -1,0 +1,246 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Collections of notes taken at the Kings Tryall, at Westminster Hall, on Munday last, Janua. 22. 1648.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A80126</idno>
+            <idno type="STC">Wing C5218</idno>
+            <idno type="STC">Thomason E538_30</idno>
+            <idno type="STC">ESTC R206057</idno>
+            <idno type="EEBO-CITATION">99865247</idno>
+            <idno type="PROQUEST">99865247</idno>
+            <idno type="VID">164885</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A80126)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 164885)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 83:E538[30])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Collections of notes taken at the Kings Tryall, at Westminster Hall, on Munday last, Janua. 22. 1648.</title>
+               </titleStmt>
+               <extent>6 [i.e. 8] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by Robert Ibbitson in Smithfield near the Queens Head Tavern,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1648 [i.e. 1649]]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Text continuous despite pagination.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:164885:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 31 -->
+            <head>Collections of Notes Taken at the KINGS Tryall, at VVeſtminſter Hall, On <date>Munday laſt, <hi>Janua.</hi> 22. 1648.</date>
+            </head>
+            <p>
+               <seg rend="decorInit">T</seg>He Court being ſate, Proclamation was made, by the Cryer,</p>
+            <q>
+               <p>
+                  <hi>Ho yes, ho yes, ho yes,</hi> All manner of per<g ref="char:EOLhyphen"/>ſons that are to attend this Court, you are to come in, and give your perſonall at<g ref="char:EOLhyphen"/>tendance.</p>
+               <p>
+                  <hi>Ho yes,</hi> Every man keep ſilence upon pain of im<g ref="char:EOLhyphen"/>priſonment, and then the Members of this Court are to anſwer to their Names.</p>
+            </q>
+            <p>Then the Court was called, A Liſt of the Names follow.</p>
+            <p>
+               <hi>John Bradſhaw</hi> Serjeant at Law, Lord Preſident of the Court. <hi>Thomas</hi> Lord <hi>Fairfax</hi> Generall, Lieu<g ref="char:EOLhyphen"/>tenant Generall <hi>Oliver Crumwel,</hi> Commiſſary Ge<g ref="char:EOLhyphen"/>nerall <hi>Ireton,</hi> Major Generall <hi>Skippon,</hi> Sir <hi>Hardreſſe Waller,</hi> Colonell <hi>Valentine Walton,</hi> Colonell <hi>Tho<g ref="char:EOLhyphen"/>mas Harriſon,</hi> Collonell <hi>Edward Whalley,</hi> Collonel <hi>Thomas Pride,</hi> Colonell <hi>Iſaak Ewer,</hi> Collonell <hi>Ri<g ref="char:EOLhyphen"/>chard Ingolsby, Henry Mildmay</hi> Eſquire, Sir <hi>Thomas Honywood, Thomas</hi> Lord <hi>Grey, Philip</hi> Lord <hi>Liſle, William</hi> Lord <hi>Munſon,</hi> Sir <hi>John Danvers</hi> knight,
+<pb n="1" facs="tcp:164885:2" rendition="simple:additions"/>
+               <!-- PDF PAGE 32 -->
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="2" facs="tcp:164885:3"/>
+               <!-- PDF PAGE 33 -->Sir <hi>Thomas Maleverer</hi> knight, Sir <hi>John Bowcher,</hi> kt. Sir <hi>James Harrington</hi> knight, Sir <hi>Henry Mildmay</hi> kt. Sir <hi>William Brereton, Robert Wallop</hi> Eſquire, <hi>William Henningham</hi> Eſquire, <hi>Iſaak Pennington</hi> Alderman, <hi>Thomas Atkins</hi> Alderman, <hi>Rouland Wilſon</hi> Alder<g ref="char:EOLhyphen"/>man, Sir <hi>Peter Wentworth,</hi> Colonell <hi>Henry Martin,</hi> Colonell <hi>William Purefoy,</hi> Colonell <hi>Godfrey Boſ<g ref="char:EOLhyphen"/>vill, John Trencherd</hi> Eſquire, Colonell <hi>Harbot<g ref="char:EOLhyphen"/>tle Morley,</hi> Colonell <hi>John Berkeſtead,</hi> Colonell <hi>Mat<g ref="char:EOLhyphen"/>thew Tomblinſon, John Blackeſtone</hi> Eſquire, <hi>Gilbert Millington</hi> Eſquire, Sir <hi>William Cunſtable,</hi> Colonel <hi>Edward Ludlow,</hi> Colonell <hi>John Lambert,</hi> Colo<g ref="char:EOLhyphen"/>nell <hi>John Hutchingſon,</hi> Sir <hi>Arthur Hazlerige,</hi> Sir <hi>Michael Liveſley, Richard Saloway</hi> Eſqu<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re, <hi>Hum<g ref="char:EOLhyphen"/>phery Saloway</hi> Eſquire, Colonel <hi>Robert Titchburn,</hi> Colonel <hi>Owen Roe,</hi> Colonel <hi>Robert Manwaring,</hi> Co<g ref="char:EOLhyphen"/>lonel <hi>Robert Lilburne,</hi> Colonell <hi>Adrian Scroope,</hi> Colonel <hi>Richard Deane,</hi> Colonel <hi>John Okey,</hi> Co<g ref="char:EOLhyphen"/>lonell <hi>Rebert Overton,</hi> Colonel <hi>John Hariſon</hi> Col. <hi>John Desborough,</hi> Col. <hi>William Goffe,</hi> Coll. <hi>Ro<g ref="char:EOLhyphen"/>bert Duckenfield, Cornelius Holland</hi> Eſquire, <hi>John Carne</hi> 
+               <abbr>Eſq</abbr> Sir <hi>Will. Armine, John Jones</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>Miles Corbet</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>Francis Allen</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>Thomas Liſter</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>Ben. Weſton</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>Pere<g ref="char:EOLhyphen"/>grin Pelham</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>John Gourdoun</hi> 
+               <abbr>Eſq</abbr> Ser<g ref="char:EOLhyphen"/>jeant <hi>Francis Thorp, John Nut</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>Tho: Challoner</hi> 
+               <abbr>Eſq</abbr> Col: <hi>Alg. Sidney, John Anlaby</hi> 
+               <abbr>Eſq</abbr> Col: <hi>John Moore, Rich: Darley</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>Will: Saye</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>John Aldred</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>John
+<pb n="1" facs="tcp:164885:3"/>
+                  <!-- PDF PAGE 33 -->Fagge</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>James Nelthrop</hi> 
+               <abbr>Eſq</abbr> Sir <hi>Will: Roberts,</hi> Col: <hi>Francis Laſſels,</hi> Col: <hi>Alex: Rixby, Henry Smith</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>Edmond Wilde</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>Iames Chaloner</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>Ioſias Barnes</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>Dennis Bond</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>Humph. Edwards</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>Grego: Cle<g ref="char:EOLhyphen"/>ment</hi> eſquire, <hi>Iohn Fry</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>Tho: Wogan</hi> 
+               <abbr>eſq</abbr> Sir <hi>Grego: Norton,</hi> Col: <hi>Edm. Harvey Iohn Dove</hi> 
+               <abbr>Eſq</abbr> Col: <hi>Iohn Venn, Iohn Foulks</hi> Alder<g ref="char:EOLhyphen"/>man, <hi>Thomas Scot</hi> Alderman, <hi>Thomas Andrewes</hi> Al<g ref="char:EOLhyphen"/>derman, <hi>William Cawley</hi> Eſquire, <hi>Abraham Burrell</hi> Eſquire, Colonel <hi>Anthony Stapley, Roger Gratwick</hi> Eſquire, <hi>John Downes</hi> Eſquire, Colonel <hi>Thomas Horton,</hi> Colonel <hi>Thomas Hammond,</hi> Colonel <hi>George Fenwicke,</hi> Serjeant <hi>Robert Nichols, Robert Reynolds</hi> Eſquire, <hi>John Liſle</hi> Eſquire, <hi>Nicholas Love</hi> Eſquire <hi>Vincent Potter,</hi> Sir <hi>Gilbert Pickering, John Weaver</hi> Eſquire, <hi>Roger Hill</hi> Eſquire, <hi>John Lenthall</hi> Eſquire, Sir <hi>Edward Baynton, John Corbet</hi> Eſquire, <hi>Thomas Blunt</hi> Eſquire <hi>Thomas Boone</hi> Eſquire, <hi>Auguſtine Gar<g ref="char:EOLhyphen"/>land</hi> Eſquire, <hi>Auguſtine Skinner</hi> Eſquire, <hi>John Dick<g ref="char:EOLhyphen"/>ſwell</hi> Eſquire, Colonel <hi>George Fleetwood, Simon Maine</hi> Eſquire, Colonel <hi>James Temple,</hi> Colonel <hi>Peter Temple, Daniel Blagrave</hi> Eſquire, Sir <hi>Peter Temple,</hi> Colonel <hi>Thomas Wayte, John Browne</hi> Eſquire <hi>John Lowrey</hi> Eſquire, 70 Commiſſioners were now preſent in Court.</p>
+            <p>Then the Cryer againe made Proclamation becauſe of ſome noyſe that was made by the People in the Hall by thronging in. So the Gates were ſet open, as
+<pb n="2" facs="tcp:164885:4"/>
+               <!-- PDF PAGE 34 -->ſoone as the Court was ſate, and by order of the Court.</p>
+            <q>
+               <p>
+                  <hi>Ho yes, ho yes, ho yes;</hi> my Lord Preſident, and this High Court doth ſtrictly charge and command all perſons to keep ſilence during the ſitting of this Court, and the Captaines of the Guards is to ap<g ref="char:EOLhyphen"/>prehend all ſuch perſons as ſhall make any diſtur<g ref="char:EOLhyphen"/>bance.</p>
+            </q>
+            <p>Then the Serjeant was ſent with the Mace for the King, who being brought to the Bar, Proclamation was made.</p>
+            <q>
+               <p>
+                  <hi>Ho yes,</hi> every man keep ſilence upon pain of impri<g ref="char:EOLhyphen"/>ſonment.</p>
+               <p>This Court doth command the Captaine of the Guards to take into cuſtody all ſuch perſons as ſhall occaſion, or make diſturbance during the ſitting of this Court.</p>
+            </q>
+            <p>Then the Councell ſpake to this effect, that he did at the laſt Court in this place in the name of the Com<g ref="char:EOLhyphen"/>mons of England exhibit a Charge of High Treaſon, and other high crimes, and miſdemeanors againſt <hi>Charles Stuart</hi> King of England now p<gap reason="illegible: damage" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſent at the Barre, that the Charge was then read unto him; but he would not give any anſwer to it, but diſputed the power of the Court: That he did now in the name of the Commons of England humbly move that hee may put in his anſwer to the ſaid Charge, and that if he refuſe to give anſwer to it, the High Court will be pleaſed to proceed againſt him <hi>pro confeſſo,</hi> And that he may be proceeded againſt accor<g ref="char:EOLhyphen"/>ding to Juſtice,</p>
+            <p>
+               <pb n="3" facs="tcp:164885:4"/>
+               <!-- PDF PAGE 34 -->
+Then the Lord Preſident made a ſpeech to the King, Declaring,</p>
+            <p>That he had (the laſt Court day) heard his Charge againſt him. That hee then did refuſe to put in his Anſwer; But diſputed the Authority of the Court, he made ſeverall objections, and was as often anſwered. That the Court have conſidered of all that was then ſaid, and what Anſwers were made, and as for their Authority, they are very well ſatisfied concerning the lawfulneſſe thereof, and deſire that he may be ſatisfied too; and therefore gave you time untill this Day, and do now expect your poſitive Anſvver, and therefore deſired the King, in the name of the Court, that hee would give in his Anſwer, and either confeſſe or deny it: and that if he did deny it, they would proceed to prove it, by a fair Tryall</p>
+            <p>And the Lord Preſident declared to the King, that now at this time the Court did ex<g ref="char:EOLhyphen"/>pect his anſwer to the charge.</p>
+            <p>The King (as he had done on Saturday be<g ref="char:EOLhyphen"/>fore) ſo now appealed to the powers above, and diſputed the power of the High court, and that in relation to his God, and his peo<g ref="char:EOLhyphen"/>ple,
+<pb n="4" facs="tcp:164885:5"/>
+               <!-- PDF PAGE 35 -->concerning which he was entred into a ſet ſpeech, by thoſe branches, to make further queſtion of their Authority.</p>
+            <p>Then the Lord Preſident declared that he muſt diſturb the King, in that he did perceive him, who was then a Delinquent, at the Barre, to undertake to give reaſons againſt the power of the Court, he being then their priſon<g ref="char:EOLhyphen"/>er; and declared that no Court what<g ref="char:EOLhyphen"/>ſoever would ſuffer a Delinquent, brought before them, to diſpute a<g ref="char:EOLhyphen"/>gainſt their power.</p>
+            <p>The King denyed that hee was a Delinquent, and would have gone on in Arguments diſputing their power. And ſaid that he would bee ſatiſfied of their Authority by Rule, and Reaſon.</p>
+            <p>Then the Lord Preſident told the King that hee muſt again interrupt his ſpeech. And declared that as it is true it is fit indeed, that he ſhould have rule and reaſon, ſo it hath been declared unto him already ſe<g ref="char:EOLhyphen"/>verall times, and that his contempts to the Court muſt be recorded, and ſuch diſputes by him, a priſoner at the bar not to be permitted.</p>
+            <p>Then the King replyed again, preſſing to have his arguments heard; And that it was but reaſon, but if
+<pb n="5" facs="tcp:164885:5"/>
+               <!-- PDF PAGE 35 -->they refuſe he would demur.</p>
+            <p>The Lord Preſident then declared to the King that neither he nor any other would be permitted there to diſpute the authority of the Court. But that he had now anſwered ſomething, that he could take notice of, and would anſwer his demur. Saying the Court doth affirme a juriſdiction, and returne their Anſwer.</p>
+            <p>Then the King offered to ſpeake before the Lord Preſident had done, but he told him, that hee might not interrupt him, for hee ſpake in the name of the whole Court, and then proceeded till he had fully de<g ref="char:EOLhyphen"/>clared it.</p>
+            <p>Then by order from the Court, the Clerke read a paper to the King, to this purpoſe.</p>
+            <p>
+               <q>
+                  <hi>Charles Stuart</hi> King of <hi>England,</hi> you are here before this Court in the names of the Commons of England accuſed of high Treaſon, and other high crimes and miſdemeaners, will you anſwer to your charge,</q> if not, it was declared, that thoſe that brought him thither muſt take him away again.</p>
+            <p>But the King ſtill perſiſted to diſpute the power of the Court. And therefore the Lord Preſident told him, that if that was all he would ſay, to inſiſt only on that, that the Serjeant muſt take him away.</p>
+            <p>The King againe urged to bee admitted to give in his reaſons to diſpute the Authority of the Court. But the Lord Preſident told him, that he may not offer any reaſons againſt the jurisdiction of the Court, and told the King, that he muſt obey the comands of the Court, or elſe withdraw, and the Court will pro<g ref="char:EOLhyphen"/>ceed,
+<pb n="6" facs="tcp:164885:6"/>
+               <!-- PDF PAGE 36 -->and perhaps when you are brought hi<g ref="char:EOLhyphen"/>ther againe, the Court will proceed to cen<g ref="char:EOLhyphen"/>ſure.</p>
+            <p>Then the King ſpake as to matter of vin<g ref="char:EOLhyphen"/>dicating of himſelfe, as if he was alwayes a friend to his people, and was no Delinquent, nor did never take up armes but for the good and freedome of his people.</p>
+            <p>The Lord preſident anſwered the King, That what a friend he hath been to the peo<g ref="char:EOLhyphen"/>ple of <hi>Englands</hi> freedom, the world may judge And the Lord preſident told him that the commands of the Court muſt bee obeyed. And the King was ſent away. After which Proclamation was made to adjourne un<g ref="char:EOLhyphen"/>till the morrow.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>London Printed by Robert Ibbitſon in Smithfield near the Queens head Tavern, 1648.</p>
+         </div>
+         <div type="imprimatur">
+            <opener>
+               <dateline>
+                  <date>Jan. 22. 1648.</date>
+               </dateline>
+            </opener>
+            <p>Imprimatur</p>
+            <closer>
+               <signed>Theodore Jennings.</signed>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </back>
+   </text>
+</TEI>
